@@ -1,2 +1,2 @@
 # Project-Kaleidoscope
-"DSA Frontier" is a comprehensive repository dedicated to Data Structures and Algorithms (DSA). It includes a curated collection of essential DSA questions, solutions, and projects in multiple programming languages.
+"DSA Frontier" is a comprehensive repository dedicated to Data Structures and Algorithms (DSA). It includes a curated collection of essential DSA questions, solutions, and projects in multiple programming languages. Whether you’re preparing for coding interviews or enhancing your problem-solving skills, this repository serves as a valuable resource for learners and practitioners alike. Dive into the world of algorithms and unlock the frontier of coding excellence!
