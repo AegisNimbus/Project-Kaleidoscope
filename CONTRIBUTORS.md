@@ -1,2 +1,2 @@
-| Image  |Name | Country                | LinkedIn, GitHub and Twitter|
-|------|--------|-----------------------|-----------------------------|
+| Image  |   Name |     Country           |        Role        |LinkedIn, GitHub and Twitter|
+|--------|--------|-----------------------|--------------------|----------------------------|
