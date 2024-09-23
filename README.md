@@ -52,7 +52,27 @@ We leverage a wide range of technologies, ensuring that each project aligns with
 
 
 Each folder within this repository represents a technology domain, containing multiple projects that you can explore and contribute to:
-Project-Kaleidoscope/ ├── FrontEnd/ │ └── project-1/ ├── BackEnd/ │ └── project-2/ ├── Full Stack/ │ └── project-3/ ├── DevOps/ │ └── project-4/ ├── Machine-Learning/ │ └── project-5/ └── Cloud/ └── project-6/
+Project-Kaleidoscope/ 
+
+├── FrontEnd/ 
+
+│ └── project-1/ 
+
+├── BackEnd/ 
+
+│ └── project-2/ 
+
+├── Full Stack/ 
+
+│ └── project-3/ 
+
+├── DevOps/ 
+
+│ └── project-4/ 
+
+└── Cloud/ 
+
+└── project-5/
 
 
 Each project comes with clear documentation, code samples, and setup instructions to help you get started quickly.
