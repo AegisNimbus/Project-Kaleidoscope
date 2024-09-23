@@ -48,6 +48,9 @@ We leverage a wide range of technologies, ensuring that each project aligns with
 
 ## 🌈 Repository Structure
 
+![image](https://github.com/user-attachments/assets/f5ab1968-44ae-4f36-b930-bb8fe313eb69)
+
+
 Each folder within this repository represents a technology domain, containing multiple projects that you can explore and contribute to:
 Project-Kaleidoscope/ ├── FrontEnd/ │ └── project-1/ ├── BackEnd/ │ └── project-2/ ├── Full Stack/ │ └── project-3/ ├── DevOps/ │ └── project-4/ ├── Machine-Learning/ │ └── project-5/ └── Cloud/ └── project-6/
 
